@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "crisp",
+  "title": "Crisp Game Lib",
+  "version": "1.0.0",
+  "platform": "crisp-game-lib-portable",
+  "port_level": "raw",
+  "author": "ABA Games (kenta cho)",
+  "porter": "AKA Port Studio",
+  "license": "MIT",
+  "copyright": "ABA Games (kenta cho) ; portage SDL/jeux supplementaires par joyrider3774",
+  "source_repository": "https://github.com/abagames/crisp-game-lib-portable",
+  "extra_games_source": "https://github.com/joyrider3774/crisp-game-lib-portable-sdl",
+  "description": "266 mini-jeux a un bouton, dans l'esprit des jeux d'arcade classiques.",
+  "supports_save": false,
+  "supports_screenshot": true,
+  "supports_languages": true,
+  "save_directory": "/sdcard/crisp/"
+}
